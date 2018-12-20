@@ -29,7 +29,7 @@ public class App
         System.out.println(jedisSimple.get("foo"));
 
 
-        new JedisSentinelPool();
+        //new JedisSentinelPool();
 
     }
 }
